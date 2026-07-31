@@ -1,0 +1,16 @@
+{
+  "source": "crop_ontology",
+  "url": "https://cropontology.org/brapi/v1/traits",
+  "license": "CC-BY 4.0",
+  "access_date": "2026-07-04",
+  "files": [
+    "cropontology_traits.csv",
+    "cropontology_traits.json"
+  ],
+  "checksums": {
+    "cropontology_traits.csv": "9125161bc637a97ca873f79382e1fb8914f4cfd39b4dc78864a985ee30e53188",
+    "cropontology_traits.json": "d68ac499937f33cb2cc306cd754202830a1eb8574760ec3b591e15ca5714f750"
+  },
+  "n_records": 1000,
+  "notes": "1000 traits em 4 ontologias (BrAPI v1)."
+}

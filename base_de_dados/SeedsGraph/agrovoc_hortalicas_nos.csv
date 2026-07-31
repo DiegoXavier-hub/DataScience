@@ -1,0 +1,121 @@
+uri,agrovoc_id,label_en,label_pt,label_es
+http://aims.fao.org/aos/agrovoc/c_14477,c_14477,soybeans,soja,Soja
+http://aims.fao.org/aos/agrovoc/c_9786,c_9786,chicory,chicória,Achicoria
+http://aims.fao.org/aos/agrovoc/c_3376,c_3376,leaf vegetables,hortaliça de folha,Hortaliza de hoja
+http://aims.fao.org/aos/agrovoc/c_12151,c_12151,lettuces,alface,Lechuga
+http://aims.fao.org/aos/agrovoc/c_779f4094,c_779f4094,head lettuce,,Lechuga de cabeza
+http://aims.fao.org/aos/agrovoc/c_934c0772,c_934c0772,cos lettuce,,Lechuga cos
+http://aims.fao.org/aos/agrovoc/c_53379b65,c_53379b65,leaf lettuce,,Lechuga de hoja
+http://aims.fao.org/aos/agrovoc/c_10596,c_10596,endives,endívia,Endibia
+http://aims.fao.org/aos/agrovoc/c_1127,c_1127,Brussels sprouts,couve-de-bruxelas,Col de Bruselas
+http://aims.fao.org/aos/agrovoc/c_1173,c_1173,cabbages,couve-repolho,Repollo
+http://aims.fao.org/aos/agrovoc/c_4070,c_4070,kales,couve,Col
+http://aims.fao.org/aos/agrovoc/c_1bd94c09,c_1bd94c09,curled kitchen kale,,Col crespa
+http://aims.fao.org/aos/agrovoc/c_9804,c_9804,chinese cabbages,couve-chinesa,Col china
+http://aims.fao.org/aos/agrovoc/c_14508,c_14508,spinach,espinafre,Espinaca
+http://aims.fao.org/aos/agrovoc/c_15275,c_15275,watercress,agrião,Berro de agua
+http://aims.fao.org/aos/agrovoc/c_331477,c_331477,taioba,taioba,Taioba
+http://aims.fao.org/aos/agrovoc/c_7303,c_7303,spinach beet,beterraba folhosa,Remolacha de hoja
+http://aims.fao.org/aos/agrovoc/c_b9d885f6,c_b9d885f6,red cabbages,,Col roja
+http://aims.fao.org/aos/agrovoc/c_c32f344d,c_c32f344d,radicchio,radicchio,Radicchio
+http://aims.fao.org/aos/agrovoc/c_5f3deb25,c_5f3deb25,Chinese kale,,Brécol chino
+http://aims.fao.org/aos/agrovoc/c_5c9e76bc,c_5c9e76bc,rocket,Rúcula,Rúcula
+http://aims.fao.org/aos/agrovoc/c_3f9d5fa9,c_3f9d5fa9,microgreens,,Microverde
+http://aims.fao.org/aos/agrovoc/c_bee45268,c_bee45268,lamb's lettuce,canónigos,Hierba del canónigo
+http://aims.fao.org/aos/agrovoc/c_d83a24a2,c_d83a24a2,amaranth leaves,,Hoja de amaranto
+http://aims.fao.org/aos/agrovoc/c_7552,c_7552,sweet corn,milho doce,Maíz dulce
+http://aims.fao.org/aos/agrovoc/c_3129,c_3129,fruit vegetables,fruto hortícola,Hortaliza de fruto
+http://aims.fao.org/aos/agrovoc/c_7805,c_7805,tomatoes,tomate,Tomate
+http://aims.fao.org/aos/agrovoc/c_36700,c_36700,cherry tomatoes,tomate cereja,Tomate cherry
+http://aims.fao.org/aos/agrovoc/c_8998,c_8998,eggplants,beringela,Berenjena
+http://aims.fao.org/aos/agrovoc/c_12920,c_12920,okras,quiabo,Ocra
+http://aims.fao.org/aos/agrovoc/c_14727,c_14727,sweet peppers,pimentão doce,Chili dulce
+http://aims.fao.org/aos/agrovoc/c_2006,c_2006,cucurbit vegetables,cucurbitácea hortícola,Hortaliza cucurbitácea
+http://aims.fao.org/aos/agrovoc/c_10195,c_10195,cucumbers,pepino,Pepino
+http://aims.fao.org/aos/agrovoc/c_11141,c_11141,gherkins,pepino para conserva,Pepinillo
+http://aims.fao.org/aos/agrovoc/c_37735,c_37735,squashes,abóbora,Calabaza
+http://aims.fao.org/aos/agrovoc/c_8411,c_8411,winter squashes,abóbora de inverno,Calabaza confitera
+http://aims.fao.org/aos/agrovoc/c_6369,c_6369,pumpkins,abóbora porqueira,Calabaza (cucúrbita)
+http://aims.fao.org/aos/agrovoc/c_12414,c_12414,marrows,aboborinha,Calabacín
+http://aims.fao.org/aos/agrovoc/c_35856,c_35856,summer squashes,abóbora de verão,Calabaza de verano
+http://aims.fao.org/aos/agrovoc/c_1a58779c,c_1a58779c,giant pumpkins,,Calabaza gigante
+http://aims.fao.org/aos/agrovoc/c_670,c_670,asparagus beans,feijão espargo,Fríjol espárrago
+http://aims.fao.org/aos/agrovoc/c_3666,c_3666,horse gram,horse gram,Fríjol grande de américa
+http://aims.fao.org/aos/agrovoc/c_4988,c_4988,mung beans,feijão mungo,Fríjol mungo
+http://aims.fao.org/aos/agrovoc/c_8089,c_8089,urd beans,urd,Porotos mungo
+http://aims.fao.org/aos/agrovoc/c_8632,c_8632,adzuki beans,feijão adzuki,Fríjol adzuki
+http://aims.fao.org/aos/agrovoc/c_9631,c_9631,carobs,alfarroba,Algarroba
+http://aims.fao.org/aos/agrovoc/c_9785,c_9785,chickpeas,grão de bico,Garbanzo
+http://aims.fao.org/aos/agrovoc/c_12140,c_12140,lentils,lentilha,Lenteja
+http://aims.fao.org/aos/agrovoc/c_13177,c_13177,peas,ervilha,Guisante
+http://aims.fao.org/aos/agrovoc/c_10722,c_10722,broad beans,fava,Haba
+http://aims.fao.org/aos/agrovoc/c_331566,c_331566,beans,,Fríjol
+http://aims.fao.org/aos/agrovoc/c_4098,c_4098,common beans,feijão (Phaseolus),Fríjol (Phaseolus)
+http://aims.fao.org/aos/agrovoc/c_f461a9d7,c_f461a9d7,green beans,,Judía verde
+http://aims.fao.org/aos/agrovoc/c_04e08adc,c_04e08adc,dry beans,,Fríjol seco
+http://aims.fao.org/aos/agrovoc/c_94046467,c_94046467,scarlet runner beans,Feijoca,Ayocote
+http://aims.fao.org/aos/agrovoc/c_801,c_801,bamboo shoots,rebento de bambu,Brote de bambú
+http://aims.fao.org/aos/agrovoc/c_6647,c_6647,root vegetables,raiz e tubérculo hortícolas,Hortaliza de raíz
+http://aims.fao.org/aos/agrovoc/c_9649,c_9649,cassava,mandioca,Mandioca
+http://aims.fao.org/aos/agrovoc/c_867,c_867,beetroot,beterraba,Remolacha
+http://aims.fao.org/aos/agrovoc/c_1411,c_1411,celeriac,aipo rábano,Apio-nabo
+http://aims.fao.org/aos/agrovoc/c_8019,c_8019,turnips,nabo,Nabo
+http://aims.fao.org/aos/agrovoc/c_14791,c_14791,taro,taro,Taro
+http://aims.fao.org/aos/agrovoc/c_6713,c_6713,rutabagas,rutabaga,Rutabaga
+http://aims.fao.org/aos/agrovoc/c_8478,c_8478,yams,inhame,Ñame
+http://aims.fao.org/aos/agrovoc/c_8639,c_8639,African bitter yam,inhame bravo,Name amargo africano
+http://aims.fao.org/aos/agrovoc/c_b62580dc,c_b62580dc,greater yam,inhame-da-Índia,Ñame de agua
+http://aims.fao.org/aos/agrovoc/c_4ad84693,c_4ad84693,Asiatic yam,batata-de-goa,Ñame asiatico
+http://aims.fao.org/aos/agrovoc/c_68ded8bf,c_68ded8bf,aerial yam,inhame-de-bolbos-aéreos,Ñame de mata
+http://aims.fao.org/aos/agrovoc/c_f4f7b60f,c_f4f7b60f,yellow Guinea yam,cara-de-Pará,Ñame amarillo
+http://aims.fao.org/aos/agrovoc/c_54e79c40,c_54e79c40,Pacific yam,,Ñame del pacífico
+http://aims.fao.org/aos/agrovoc/c_ac086db8,c_ac086db8,Chinese yam,inhame-da-china,Ñame de la China
+http://aims.fao.org/aos/agrovoc/c_6060d12c,c_6060d12c,five-leaved yam,grabosa,Ñame de cinco hojas
+http://aims.fao.org/aos/agrovoc/c_bd43049a,c_bd43049a,white Guinea yam,inhame-branco-da-Guiné,Ñame guinea
+http://aims.fao.org/aos/agrovoc/c_33c5958f,c_33c5958f,cush-cush yam,cará-doce,Ñame mapuey
+http://aims.fao.org/aos/agrovoc/c_38c2b537,c_38c2b537,Japanese yam,,Ñame japonés
+http://aims.fao.org/aos/agrovoc/c_2a17f2e0,c_2a17f2e0,Asiatic bitter yam,inhame-dos-tintureiros,Ñame intoxicante
+http://aims.fao.org/aos/agrovoc/c_9640,c_9640,carrots,cenoura,Zanahoria
+http://aims.fao.org/aos/agrovoc/c_11903,c_11903,Jerusalem artichokes,tupinambo,Pataca
+http://aims.fao.org/aos/agrovoc/c_13122,c_13122,parsnips,chirivia,Chirivia
+http://aims.fao.org/aos/agrovoc/c_13551,c_13551,potatoes,batata,Papa
+http://aims.fao.org/aos/agrovoc/c_10081,c_10081,seed potatoes,batata semente,Papa de siembra
+http://aims.fao.org/aos/agrovoc/c_13735,c_13735,radishes,rabanete,Rábano
+http://aims.fao.org/aos/agrovoc/c_14055,c_14055,salsify,salsifi,Salsifi
+http://aims.fao.org/aos/agrovoc/c_14729,c_14729,sweet potatoes,batata doce,Batata
+http://aims.fao.org/aos/agrovoc/c_8c81ebbc,c_8c81ebbc,orange-fleshed sweet potatoes,batata doce de polpa alaranjada,Boniato de masa anaranjada
+http://aims.fao.org/aos/agrovoc/c_11614,c_11614,horseradish,rábano silvestre,Rábano picante
+http://aims.fao.org/aos/agrovoc/c_0f628632,c_0f628632,black salsify,salsifi negro,Escorzonera
+http://aims.fao.org/aos/agrovoc/c_1af96a53,c_1af96a53,chicory root,,Achicoria de raíz
+http://aims.fao.org/aos/agrovoc/c_7f40dbdf,c_7f40dbdf,parsley root,,Perejil tuberoso
+http://aims.fao.org/aos/agrovoc/c_d1c9cfce,c_d1c9cfce,lotus root,,Raíz de loto
+http://aims.fao.org/aos/agrovoc/c_700f9441,c_700f9441,yautia,yautia,Yautía
+http://aims.fao.org/aos/agrovoc/c_1143,c_1143,bulbous vegetables,aliácea hortícola,Hortaliza de bulbo
+http://aims.fao.org/aos/agrovoc/c_4040,c_4040,Japanese bunching onions,cebola japonesa,Cebolla japonesa
+http://aims.fao.org/aos/agrovoc/c_12128,c_12128,leeks,alho porro,Puerro
+http://aims.fao.org/aos/agrovoc/c_12934,c_12934,onions,cebola,Cebolla
+http://aims.fao.org/aos/agrovoc/c_14233,c_14233,shallots,chalota,Chalote
+http://aims.fao.org/aos/agrovoc/c_9813,c_9813,chives,cebolinha,Cebollino
+http://aims.fao.org/aos/agrovoc/c_11091,c_11091,garlic,alho,Ajo
+http://aims.fao.org/aos/agrovoc/c_ffd65b9e,c_ffd65b9e,green onions,cebola primavera,Cebolla verde
+http://aims.fao.org/aos/agrovoc/c_2487,c_2487,edible fungi,cogumelo comestível,Seta comestible
+http://aims.fao.org/aos/agrovoc/c_221f3324,c_221f3324,truffles,Trufa,Trufa
+http://aims.fao.org/aos/agrovoc/c_7388,c_7388,stem vegetables,caule hortícola,Hortaliza de tallo
+http://aims.fao.org/aos/agrovoc/c_1412,c_1412,celery,aipo,Apio
+http://aims.fao.org/aos/agrovoc/c_4114,c_4114,kohlrabi,couve-rábano,Colirrábano
+http://aims.fao.org/aos/agrovoc/c_11089,c_11089,rhubarb,ruibarbo,Ruibarbo
+http://aims.fao.org/aos/agrovoc/c_5989,c_5989,plantains,banana da terra,Plátano
+http://aims.fao.org/aos/agrovoc/c_9623,c_9623,cardoons,cardo do coalho,Cardo
+http://aims.fao.org/aos/agrovoc/c_11766,c_11766,inflorescence vegetables,hortícola de inflorescência,Hortaliza de inflorescencia
+http://aims.fao.org/aos/agrovoc/c_11171,c_11171,globe artichokes,alcachofra,Alcachofa
+http://aims.fao.org/aos/agrovoc/c_1394,c_1394,cauliflowers,couve-flor,Coliflor
+http://aims.fao.org/aos/agrovoc/c_7339,c_7339,broccoli,brócolos,Bróculi
+http://aims.fao.org/aos/agrovoc/c_15889,c_15889,bean sprouts,rebento de soja,Fríjol nacido
+http://aims.fao.org/aos/agrovoc/c_17156,c_17156,asparagus spears,espargo,Espárrago
+http://aims.fao.org/aos/agrovoc/c_28302,c_28302,palm hearts,palmito,Palmito
+http://aims.fao.org/aos/agrovoc/c_32502,c_32502,out of season vegetables,produto hortícola fora da época,Hortaliza fuera de temporada
+http://aims.fao.org/aos/agrovoc/c_330156,c_330156,drumsticks,vagem de moringa,Baqueta
+http://aims.fao.org/aos/agrovoc/c_10789,c_10789,fennel,funcho,Hinojo
+http://aims.fao.org/aos/agrovoc/c_87057e4f,c_87057e4f,seakale,couve marinha,Col marina
+http://aims.fao.org/aos/agrovoc/c_a8b0f9a7,c_a8b0f9a7,roselle,,Rosella
+http://aims.fao.org/aos/agrovoc/c_8174,c_8174,vegetables,hortaliças,hortalizas

@@ -1,0 +1,18 @@
+{
+  "source": "agrovoc",
+  "url": "https://agrovoc.fao.org/sparql",
+  "license": "CC-BY 3.0 IGO",
+  "access_date": "2026-07-04",
+  "files": [
+    "agrovoc_hortalicas_nos.csv",
+    "agrovoc_hortalicas_arestas.csv",
+    "agrovoc_hortalicas_raw.json"
+  ],
+  "checksums": {
+    "agrovoc_hortalicas_nos.csv": "73f7f750542bf9a5a6cd9ec4f16528398afecab0b3b4a5aba3b9f89fcd6358d1",
+    "agrovoc_hortalicas_arestas.csv": "40b1939aec7d7c1a2dfe9c7c52c8467bc67fface00443392bcfd4b7cb3f51c2e",
+    "agrovoc_hortalicas_raw.json": "387876b73095de49bdfae1d7ea5922416a54b102a83ee4560264c5783d418184"
+  },
+  "n_records": 120,
+  "notes": "120 conceitos, 120 arestas broader (subgrafo 'vegetables' via SPARQL skos:broader+)."
+}

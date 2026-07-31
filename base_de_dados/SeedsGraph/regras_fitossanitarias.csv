@@ -1,0 +1,5 @@
+especie_sci,pest_nome,pest_eppo,destinos_restritos,base
+solanum lycopersicum,Clavibacter michiganensis subsp. michiganensis,CORBMI,UE|Chile,Cancro bacteriano do tomateiro; transmitido por semente; praga quarentenaria (EPPO A2).
+phaseolus vulgaris,Curtobacterium flaccumfaciens pv. flaccumfaciens,CORBFL,UE,Murcha bacteriana do feijoeiro; transmitida por semente; praga quarentenaria (EPPO A2).
+allium cepa,Ditylenchus dipsaci,DITYDI,UE,Nematoide do caule e do bulbo; transmitido por semente/bulbo; praga quarentenaria (EPPO A2).
+daucus carota,Ditylenchus dipsaci,DITYDI,UE,Nematoide do caule; hospedeiro documentado; praga quarentenaria (EPPO A2).

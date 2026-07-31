@@ -1,0 +1,18 @@
+{
+  "source": "sigef",
+  "url": "https://dados.agricultura.gov.br/dataset/c7784a6e-f0ec-4196-a1ce-1d2d4784a58e/resource",
+  "license": "CC-BY (MAPA / dados.agricultura.gov.br)",
+  "access_date": "2026-07-04",
+  "files": [
+    "sigef_campos_producao_sementes.csv",
+    "sigef_declaracao_area_uso_proprio.csv",
+    "sigef_dicionario_oficial.pdf"
+  ],
+  "checksums": {
+    "sigef_campos_producao_sementes.csv": "cc9c704835cb3ec11e51b6d08a40313211d1257a058f428d1d27e2f67201d461",
+    "sigef_declaracao_area_uso_proprio.csv": "3fc4455b7f38cba1a3e841c60ca2a4fec17ff563cb8440eed995c6098b7b462b",
+    "sigef_dicionario_oficial.pdf": "03af7b83e9109e860e21f24187ada177965ba02c58c847cf250b31e6bcdbe2be"
+  },
+  "n_records": 606809,
+  "notes": "Encoding Latin-1, separador ';', decimal vírgula. CSVs grandes fora do git; ver DICIONARIO_DADOS.md."
+}

@@ -1,0 +1,1686 @@
+{
+  "nodes": [
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_14477",
+      "agrovoc_id": "c_14477",
+      "label_en": "soybeans",
+      "label_pt": "soja",
+      "label_es": "Soja"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_9786",
+      "agrovoc_id": "c_9786",
+      "label_en": "chicory",
+      "label_pt": "chicória",
+      "label_es": "Achicoria"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "agrovoc_id": "c_3376",
+      "label_en": "leaf vegetables",
+      "label_pt": "hortaliça de folha",
+      "label_es": "Hortaliza de hoja"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_12151",
+      "agrovoc_id": "c_12151",
+      "label_en": "lettuces",
+      "label_pt": "alface",
+      "label_es": "Lechuga"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_779f4094",
+      "agrovoc_id": "c_779f4094",
+      "label_en": "head lettuce",
+      "label_pt": null,
+      "label_es": "Lechuga de cabeza"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_934c0772",
+      "agrovoc_id": "c_934c0772",
+      "label_en": "cos lettuce",
+      "label_pt": null,
+      "label_es": "Lechuga cos"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_53379b65",
+      "agrovoc_id": "c_53379b65",
+      "label_en": "leaf lettuce",
+      "label_pt": null,
+      "label_es": "Lechuga de hoja"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_10596",
+      "agrovoc_id": "c_10596",
+      "label_en": "endives",
+      "label_pt": "endívia",
+      "label_es": "Endibia"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_1127",
+      "agrovoc_id": "c_1127",
+      "label_en": "Brussels sprouts",
+      "label_pt": "couve-de-bruxelas",
+      "label_es": "Col de Bruselas"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_1173",
+      "agrovoc_id": "c_1173",
+      "label_en": "cabbages",
+      "label_pt": "couve-repolho",
+      "label_es": "Repollo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_4070",
+      "agrovoc_id": "c_4070",
+      "label_en": "kales",
+      "label_pt": "couve",
+      "label_es": "Col"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_1bd94c09",
+      "agrovoc_id": "c_1bd94c09",
+      "label_en": "curled kitchen kale",
+      "label_pt": null,
+      "label_es": "Col crespa"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_9804",
+      "agrovoc_id": "c_9804",
+      "label_en": "chinese cabbages",
+      "label_pt": "couve-chinesa",
+      "label_es": "Col china"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_14508",
+      "agrovoc_id": "c_14508",
+      "label_en": "spinach",
+      "label_pt": "espinafre",
+      "label_es": "Espinaca"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_15275",
+      "agrovoc_id": "c_15275",
+      "label_en": "watercress",
+      "label_pt": "agrião",
+      "label_es": "Berro de agua"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_331477",
+      "agrovoc_id": "c_331477",
+      "label_en": "taioba",
+      "label_pt": "taioba",
+      "label_es": "Taioba"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_7303",
+      "agrovoc_id": "c_7303",
+      "label_en": "spinach beet",
+      "label_pt": "beterraba folhosa",
+      "label_es": "Remolacha de hoja"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_b9d885f6",
+      "agrovoc_id": "c_b9d885f6",
+      "label_en": "red cabbages",
+      "label_pt": null,
+      "label_es": "Col roja"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_c32f344d",
+      "agrovoc_id": "c_c32f344d",
+      "label_en": "radicchio",
+      "label_pt": "radicchio",
+      "label_es": "Radicchio"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_5f3deb25",
+      "agrovoc_id": "c_5f3deb25",
+      "label_en": "Chinese kale",
+      "label_pt": null,
+      "label_es": "Brécol chino"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_5c9e76bc",
+      "agrovoc_id": "c_5c9e76bc",
+      "label_en": "rocket",
+      "label_pt": "Rúcula",
+      "label_es": "Rúcula"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_3f9d5fa9",
+      "agrovoc_id": "c_3f9d5fa9",
+      "label_en": "microgreens",
+      "label_pt": null,
+      "label_es": "Microverde"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_bee45268",
+      "agrovoc_id": "c_bee45268",
+      "label_en": "lamb's lettuce",
+      "label_pt": "canónigos",
+      "label_es": "Hierba del canónigo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_d83a24a2",
+      "agrovoc_id": "c_d83a24a2",
+      "label_en": "amaranth leaves",
+      "label_pt": null,
+      "label_es": "Hoja de amaranto"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_7552",
+      "agrovoc_id": "c_7552",
+      "label_en": "sweet corn",
+      "label_pt": "milho doce",
+      "label_es": "Maíz dulce"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_3129",
+      "agrovoc_id": "c_3129",
+      "label_en": "fruit vegetables",
+      "label_pt": "fruto hortícola",
+      "label_es": "Hortaliza de fruto"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_7805",
+      "agrovoc_id": "c_7805",
+      "label_en": "tomatoes",
+      "label_pt": "tomate",
+      "label_es": "Tomate"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_36700",
+      "agrovoc_id": "c_36700",
+      "label_en": "cherry tomatoes",
+      "label_pt": "tomate cereja",
+      "label_es": "Tomate cherry"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_8998",
+      "agrovoc_id": "c_8998",
+      "label_en": "eggplants",
+      "label_pt": "beringela",
+      "label_es": "Berenjena"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_12920",
+      "agrovoc_id": "c_12920",
+      "label_en": "okras",
+      "label_pt": "quiabo",
+      "label_es": "Ocra"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_14727",
+      "agrovoc_id": "c_14727",
+      "label_en": "sweet peppers",
+      "label_pt": "pimentão doce",
+      "label_es": "Chili dulce"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_2006",
+      "agrovoc_id": "c_2006",
+      "label_en": "cucurbit vegetables",
+      "label_pt": "cucurbitácea hortícola",
+      "label_es": "Hortaliza cucurbitácea"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_10195",
+      "agrovoc_id": "c_10195",
+      "label_en": "cucumbers",
+      "label_pt": "pepino",
+      "label_es": "Pepino"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_11141",
+      "agrovoc_id": "c_11141",
+      "label_en": "gherkins",
+      "label_pt": "pepino para conserva",
+      "label_es": "Pepinillo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_37735",
+      "agrovoc_id": "c_37735",
+      "label_en": "squashes",
+      "label_pt": "abóbora",
+      "label_es": "Calabaza"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_8411",
+      "agrovoc_id": "c_8411",
+      "label_en": "winter squashes",
+      "label_pt": "abóbora de inverno",
+      "label_es": "Calabaza confitera"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_6369",
+      "agrovoc_id": "c_6369",
+      "label_en": "pumpkins",
+      "label_pt": "abóbora porqueira",
+      "label_es": "Calabaza (cucúrbita)"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_12414",
+      "agrovoc_id": "c_12414",
+      "label_en": "marrows",
+      "label_pt": "aboborinha",
+      "label_es": "Calabacín"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_35856",
+      "agrovoc_id": "c_35856",
+      "label_en": "summer squashes",
+      "label_pt": "abóbora de verão",
+      "label_es": "Calabaza de verano"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_1a58779c",
+      "agrovoc_id": "c_1a58779c",
+      "label_en": "giant pumpkins",
+      "label_pt": null,
+      "label_es": "Calabaza gigante"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_670",
+      "agrovoc_id": "c_670",
+      "label_en": "asparagus beans",
+      "label_pt": "feijão espargo",
+      "label_es": "Fríjol espárrago"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_3666",
+      "agrovoc_id": "c_3666",
+      "label_en": "horse gram",
+      "label_pt": "horse gram",
+      "label_es": "Fríjol grande de américa"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_4988",
+      "agrovoc_id": "c_4988",
+      "label_en": "mung beans",
+      "label_pt": "feijão mungo",
+      "label_es": "Fríjol mungo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_8089",
+      "agrovoc_id": "c_8089",
+      "label_en": "urd beans",
+      "label_pt": "urd",
+      "label_es": "Porotos mungo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_8632",
+      "agrovoc_id": "c_8632",
+      "label_en": "adzuki beans",
+      "label_pt": "feijão adzuki",
+      "label_es": "Fríjol adzuki"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_9631",
+      "agrovoc_id": "c_9631",
+      "label_en": "carobs",
+      "label_pt": "alfarroba",
+      "label_es": "Algarroba"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_9785",
+      "agrovoc_id": "c_9785",
+      "label_en": "chickpeas",
+      "label_pt": "grão de bico",
+      "label_es": "Garbanzo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_12140",
+      "agrovoc_id": "c_12140",
+      "label_en": "lentils",
+      "label_pt": "lentilha",
+      "label_es": "Lenteja"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_13177",
+      "agrovoc_id": "c_13177",
+      "label_en": "peas",
+      "label_pt": "ervilha",
+      "label_es": "Guisante"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_10722",
+      "agrovoc_id": "c_10722",
+      "label_en": "broad beans",
+      "label_pt": "fava",
+      "label_es": "Haba"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_331566",
+      "agrovoc_id": "c_331566",
+      "label_en": "beans",
+      "label_pt": null,
+      "label_es": "Fríjol"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_4098",
+      "agrovoc_id": "c_4098",
+      "label_en": "common beans",
+      "label_pt": "feijão (Phaseolus)",
+      "label_es": "Fríjol (Phaseolus)"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_f461a9d7",
+      "agrovoc_id": "c_f461a9d7",
+      "label_en": "green beans",
+      "label_pt": null,
+      "label_es": "Judía verde"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_04e08adc",
+      "agrovoc_id": "c_04e08adc",
+      "label_en": "dry beans",
+      "label_pt": null,
+      "label_es": "Fríjol seco"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_94046467",
+      "agrovoc_id": "c_94046467",
+      "label_en": "scarlet runner beans",
+      "label_pt": "Feijoca",
+      "label_es": "Ayocote"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_801",
+      "agrovoc_id": "c_801",
+      "label_en": "bamboo shoots",
+      "label_pt": "rebento de bambu",
+      "label_es": "Brote de bambú"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "agrovoc_id": "c_6647",
+      "label_en": "root vegetables",
+      "label_pt": "raiz e tubérculo hortícolas",
+      "label_es": "Hortaliza de raíz"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_9649",
+      "agrovoc_id": "c_9649",
+      "label_en": "cassava",
+      "label_pt": "mandioca",
+      "label_es": "Mandioca"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_867",
+      "agrovoc_id": "c_867",
+      "label_en": "beetroot",
+      "label_pt": "beterraba",
+      "label_es": "Remolacha"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_1411",
+      "agrovoc_id": "c_1411",
+      "label_en": "celeriac",
+      "label_pt": "aipo rábano",
+      "label_es": "Apio-nabo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_8019",
+      "agrovoc_id": "c_8019",
+      "label_en": "turnips",
+      "label_pt": "nabo",
+      "label_es": "Nabo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_14791",
+      "agrovoc_id": "c_14791",
+      "label_en": "taro",
+      "label_pt": "taro",
+      "label_es": "Taro"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_6713",
+      "agrovoc_id": "c_6713",
+      "label_en": "rutabagas",
+      "label_pt": "rutabaga",
+      "label_es": "Rutabaga"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "agrovoc_id": "c_8478",
+      "label_en": "yams",
+      "label_pt": "inhame",
+      "label_es": "Ñame"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_8639",
+      "agrovoc_id": "c_8639",
+      "label_en": "African bitter yam",
+      "label_pt": "inhame bravo",
+      "label_es": "Name amargo africano"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_b62580dc",
+      "agrovoc_id": "c_b62580dc",
+      "label_en": "greater yam",
+      "label_pt": "inhame-da-Índia",
+      "label_es": "Ñame de agua"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_4ad84693",
+      "agrovoc_id": "c_4ad84693",
+      "label_en": "Asiatic yam",
+      "label_pt": "batata-de-goa",
+      "label_es": "Ñame asiatico"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_68ded8bf",
+      "agrovoc_id": "c_68ded8bf",
+      "label_en": "aerial yam",
+      "label_pt": "inhame-de-bolbos-aéreos",
+      "label_es": "Ñame de mata"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_f4f7b60f",
+      "agrovoc_id": "c_f4f7b60f",
+      "label_en": "yellow Guinea yam",
+      "label_pt": "cara-de-Pará",
+      "label_es": "Ñame amarillo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_54e79c40",
+      "agrovoc_id": "c_54e79c40",
+      "label_en": "Pacific yam",
+      "label_pt": null,
+      "label_es": "Ñame del pacífico"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_ac086db8",
+      "agrovoc_id": "c_ac086db8",
+      "label_en": "Chinese yam",
+      "label_pt": "inhame-da-china",
+      "label_es": "Ñame de la China"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_6060d12c",
+      "agrovoc_id": "c_6060d12c",
+      "label_en": "five-leaved yam",
+      "label_pt": "grabosa",
+      "label_es": "Ñame de cinco hojas"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_bd43049a",
+      "agrovoc_id": "c_bd43049a",
+      "label_en": "white Guinea yam",
+      "label_pt": "inhame-branco-da-Guiné",
+      "label_es": "Ñame guinea"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_33c5958f",
+      "agrovoc_id": "c_33c5958f",
+      "label_en": "cush-cush yam",
+      "label_pt": "cará-doce",
+      "label_es": "Ñame mapuey"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_38c2b537",
+      "agrovoc_id": "c_38c2b537",
+      "label_en": "Japanese yam",
+      "label_pt": null,
+      "label_es": "Ñame japonés"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_2a17f2e0",
+      "agrovoc_id": "c_2a17f2e0",
+      "label_en": "Asiatic bitter yam",
+      "label_pt": "inhame-dos-tintureiros",
+      "label_es": "Ñame intoxicante"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_9640",
+      "agrovoc_id": "c_9640",
+      "label_en": "carrots",
+      "label_pt": "cenoura",
+      "label_es": "Zanahoria"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_11903",
+      "agrovoc_id": "c_11903",
+      "label_en": "Jerusalem artichokes",
+      "label_pt": "tupinambo",
+      "label_es": "Pataca"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_13122",
+      "agrovoc_id": "c_13122",
+      "label_en": "parsnips",
+      "label_pt": "chirivia",
+      "label_es": "Chirivia"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_13551",
+      "agrovoc_id": "c_13551",
+      "label_en": "potatoes",
+      "label_pt": "batata",
+      "label_es": "Papa"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_10081",
+      "agrovoc_id": "c_10081",
+      "label_en": "seed potatoes",
+      "label_pt": "batata semente",
+      "label_es": "Papa de siembra"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_13735",
+      "agrovoc_id": "c_13735",
+      "label_en": "radishes",
+      "label_pt": "rabanete",
+      "label_es": "Rábano"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_14055",
+      "agrovoc_id": "c_14055",
+      "label_en": "salsify",
+      "label_pt": "salsifi",
+      "label_es": "Salsifi"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_14729",
+      "agrovoc_id": "c_14729",
+      "label_en": "sweet potatoes",
+      "label_pt": "batata doce",
+      "label_es": "Batata"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_8c81ebbc",
+      "agrovoc_id": "c_8c81ebbc",
+      "label_en": "orange-fleshed sweet potatoes",
+      "label_pt": "batata doce de polpa alaranjada",
+      "label_es": "Boniato de masa anaranjada"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_11614",
+      "agrovoc_id": "c_11614",
+      "label_en": "horseradish",
+      "label_pt": "rábano silvestre",
+      "label_es": "Rábano picante"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_0f628632",
+      "agrovoc_id": "c_0f628632",
+      "label_en": "black salsify",
+      "label_pt": "salsifi negro",
+      "label_es": "Escorzonera"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_1af96a53",
+      "agrovoc_id": "c_1af96a53",
+      "label_en": "chicory root",
+      "label_pt": null,
+      "label_es": "Achicoria de raíz"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_7f40dbdf",
+      "agrovoc_id": "c_7f40dbdf",
+      "label_en": "parsley root",
+      "label_pt": null,
+      "label_es": "Perejil tuberoso"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_d1c9cfce",
+      "agrovoc_id": "c_d1c9cfce",
+      "label_en": "lotus root",
+      "label_pt": null,
+      "label_es": "Raíz de loto"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_700f9441",
+      "agrovoc_id": "c_700f9441",
+      "label_en": "yautia",
+      "label_pt": "yautia",
+      "label_es": "Yautía"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_1143",
+      "agrovoc_id": "c_1143",
+      "label_en": "bulbous vegetables",
+      "label_pt": "aliácea hortícola",
+      "label_es": "Hortaliza de bulbo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_4040",
+      "agrovoc_id": "c_4040",
+      "label_en": "Japanese bunching onions",
+      "label_pt": "cebola japonesa",
+      "label_es": "Cebolla japonesa"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_12128",
+      "agrovoc_id": "c_12128",
+      "label_en": "leeks",
+      "label_pt": "alho porro",
+      "label_es": "Puerro"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_12934",
+      "agrovoc_id": "c_12934",
+      "label_en": "onions",
+      "label_pt": "cebola",
+      "label_es": "Cebolla"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_14233",
+      "agrovoc_id": "c_14233",
+      "label_en": "shallots",
+      "label_pt": "chalota",
+      "label_es": "Chalote"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_9813",
+      "agrovoc_id": "c_9813",
+      "label_en": "chives",
+      "label_pt": "cebolinha",
+      "label_es": "Cebollino"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_11091",
+      "agrovoc_id": "c_11091",
+      "label_en": "garlic",
+      "label_pt": "alho",
+      "label_es": "Ajo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_ffd65b9e",
+      "agrovoc_id": "c_ffd65b9e",
+      "label_en": "green onions",
+      "label_pt": "cebola primavera",
+      "label_es": "Cebolla verde"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_2487",
+      "agrovoc_id": "c_2487",
+      "label_en": "edible fungi",
+      "label_pt": "cogumelo comestível",
+      "label_es": "Seta comestible"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_221f3324",
+      "agrovoc_id": "c_221f3324",
+      "label_en": "truffles",
+      "label_pt": "Trufa",
+      "label_es": "Trufa"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_7388",
+      "agrovoc_id": "c_7388",
+      "label_en": "stem vegetables",
+      "label_pt": "caule hortícola",
+      "label_es": "Hortaliza de tallo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_1412",
+      "agrovoc_id": "c_1412",
+      "label_en": "celery",
+      "label_pt": "aipo",
+      "label_es": "Apio"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_4114",
+      "agrovoc_id": "c_4114",
+      "label_en": "kohlrabi",
+      "label_pt": "couve-rábano",
+      "label_es": "Colirrábano"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_11089",
+      "agrovoc_id": "c_11089",
+      "label_en": "rhubarb",
+      "label_pt": "ruibarbo",
+      "label_es": "Ruibarbo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_5989",
+      "agrovoc_id": "c_5989",
+      "label_en": "plantains",
+      "label_pt": "banana da terra",
+      "label_es": "Plátano"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_9623",
+      "agrovoc_id": "c_9623",
+      "label_en": "cardoons",
+      "label_pt": "cardo do coalho",
+      "label_es": "Cardo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_11766",
+      "agrovoc_id": "c_11766",
+      "label_en": "inflorescence vegetables",
+      "label_pt": "hortícola de inflorescência",
+      "label_es": "Hortaliza de inflorescencia"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_11171",
+      "agrovoc_id": "c_11171",
+      "label_en": "globe artichokes",
+      "label_pt": "alcachofra",
+      "label_es": "Alcachofa"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_1394",
+      "agrovoc_id": "c_1394",
+      "label_en": "cauliflowers",
+      "label_pt": "couve-flor",
+      "label_es": "Coliflor"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_7339",
+      "agrovoc_id": "c_7339",
+      "label_en": "broccoli",
+      "label_pt": "brócolos",
+      "label_es": "Bróculi"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_15889",
+      "agrovoc_id": "c_15889",
+      "label_en": "bean sprouts",
+      "label_pt": "rebento de soja",
+      "label_es": "Fríjol nacido"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_17156",
+      "agrovoc_id": "c_17156",
+      "label_en": "asparagus spears",
+      "label_pt": "espargo",
+      "label_es": "Espárrago"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_28302",
+      "agrovoc_id": "c_28302",
+      "label_en": "palm hearts",
+      "label_pt": "palmito",
+      "label_es": "Palmito"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_32502",
+      "agrovoc_id": "c_32502",
+      "label_en": "out of season vegetables",
+      "label_pt": "produto hortícola fora da época",
+      "label_es": "Hortaliza fuera de temporada"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_330156",
+      "agrovoc_id": "c_330156",
+      "label_en": "drumsticks",
+      "label_pt": "vagem de moringa",
+      "label_es": "Baqueta"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_10789",
+      "agrovoc_id": "c_10789",
+      "label_en": "fennel",
+      "label_pt": "funcho",
+      "label_es": "Hinojo"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_87057e4f",
+      "agrovoc_id": "c_87057e4f",
+      "label_en": "seakale",
+      "label_pt": "couve marinha",
+      "label_es": "Col marina"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_a8b0f9a7",
+      "agrovoc_id": "c_a8b0f9a7",
+      "label_en": "roselle",
+      "label_pt": null,
+      "label_es": "Rosella"
+    },
+    {
+      "uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "agrovoc_id": "c_8174",
+      "label_en": "vegetables",
+      "label_pt": "hortaliças",
+      "label_es": "hortalizas"
+    }
+  ],
+  "edges": [
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_14477",
+      "child_id": "c_14477",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_9786",
+      "child_id": "c_9786",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "child_id": "c_3376",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_12151",
+      "child_id": "c_12151",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_779f4094",
+      "child_id": "c_779f4094",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_12151",
+      "parent_id": "c_12151",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_934c0772",
+      "child_id": "c_934c0772",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_12151",
+      "parent_id": "c_12151",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_53379b65",
+      "child_id": "c_53379b65",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_12151",
+      "parent_id": "c_12151",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_10596",
+      "child_id": "c_10596",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_1127",
+      "child_id": "c_1127",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_1173",
+      "child_id": "c_1173",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_4070",
+      "child_id": "c_4070",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_1bd94c09",
+      "child_id": "c_1bd94c09",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_4070",
+      "parent_id": "c_4070",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_9804",
+      "child_id": "c_9804",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_14508",
+      "child_id": "c_14508",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_15275",
+      "child_id": "c_15275",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_331477",
+      "child_id": "c_331477",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_7303",
+      "child_id": "c_7303",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_b9d885f6",
+      "child_id": "c_b9d885f6",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_c32f344d",
+      "child_id": "c_c32f344d",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_5f3deb25",
+      "child_id": "c_5f3deb25",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_5c9e76bc",
+      "child_id": "c_5c9e76bc",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_3f9d5fa9",
+      "child_id": "c_3f9d5fa9",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_bee45268",
+      "child_id": "c_bee45268",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_d83a24a2",
+      "child_id": "c_d83a24a2",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3376",
+      "parent_id": "c_3376",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_7552",
+      "child_id": "c_7552",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_12332",
+      "parent_id": "c_12332",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_7552",
+      "child_id": "c_7552",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_3129",
+      "child_id": "c_3129",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_7805",
+      "child_id": "c_7805",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3129",
+      "parent_id": "c_3129",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_36700",
+      "child_id": "c_36700",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_7805",
+      "parent_id": "c_7805",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_8998",
+      "child_id": "c_8998",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3129",
+      "parent_id": "c_3129",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_12920",
+      "child_id": "c_12920",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3129",
+      "parent_id": "c_3129",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_14727",
+      "child_id": "c_14727",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_3129",
+      "parent_id": "c_3129",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_2006",
+      "child_id": "c_2006",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_10195",
+      "child_id": "c_10195",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_2006",
+      "parent_id": "c_2006",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_11141",
+      "child_id": "c_11141",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_10195",
+      "parent_id": "c_10195",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_37735",
+      "child_id": "c_37735",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_2006",
+      "parent_id": "c_2006",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_8411",
+      "child_id": "c_8411",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_37735",
+      "parent_id": "c_37735",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_6369",
+      "child_id": "c_6369",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_37735",
+      "parent_id": "c_37735",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_12414",
+      "child_id": "c_12414",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_37735",
+      "parent_id": "c_37735",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_35856",
+      "child_id": "c_35856",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_37735",
+      "parent_id": "c_37735",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_1a58779c",
+      "child_id": "c_1a58779c",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_37735",
+      "parent_id": "c_37735",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_670",
+      "child_id": "c_670",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_3666",
+      "child_id": "c_3666",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_4988",
+      "child_id": "c_4988",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_8089",
+      "child_id": "c_8089",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_8632",
+      "child_id": "c_8632",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_9631",
+      "child_id": "c_9631",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_9785",
+      "child_id": "c_9785",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_12140",
+      "child_id": "c_12140",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_13177",
+      "child_id": "c_13177",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_10722",
+      "child_id": "c_10722",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_331566",
+      "child_id": "c_331566",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_4098",
+      "child_id": "c_4098",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_331566",
+      "parent_id": "c_331566",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_f461a9d7",
+      "child_id": "c_f461a9d7",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_4098",
+      "parent_id": "c_4098",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_04e08adc",
+      "child_id": "c_04e08adc",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_4098",
+      "parent_id": "c_4098",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_94046467",
+      "child_id": "c_94046467",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_331566",
+      "parent_id": "c_331566",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_801",
+      "child_id": "c_801",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "child_id": "c_6647",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_9649",
+      "child_id": "c_9649",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_867",
+      "child_id": "c_867",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_1411",
+      "child_id": "c_1411",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_8019",
+      "child_id": "c_8019",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_14791",
+      "child_id": "c_14791",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_6713",
+      "child_id": "c_6713",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "child_id": "c_8478",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_8639",
+      "child_id": "c_8639",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_b62580dc",
+      "child_id": "c_b62580dc",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_4ad84693",
+      "child_id": "c_4ad84693",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_68ded8bf",
+      "child_id": "c_68ded8bf",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_f4f7b60f",
+      "child_id": "c_f4f7b60f",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_54e79c40",
+      "child_id": "c_54e79c40",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_ac086db8",
+      "child_id": "c_ac086db8",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_6060d12c",
+      "child_id": "c_6060d12c",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_bd43049a",
+      "child_id": "c_bd43049a",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_33c5958f",
+      "child_id": "c_33c5958f",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_38c2b537",
+      "child_id": "c_38c2b537",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_2a17f2e0",
+      "child_id": "c_2a17f2e0",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8478",
+      "parent_id": "c_8478",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_9640",
+      "child_id": "c_9640",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_11903",
+      "child_id": "c_11903",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_13122",
+      "child_id": "c_13122",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_13551",
+      "child_id": "c_13551",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_10081",
+      "child_id": "c_10081",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_13551",
+      "parent_id": "c_13551",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_13735",
+      "child_id": "c_13735",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_14055",
+      "child_id": "c_14055",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_14729",
+      "child_id": "c_14729",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_8c81ebbc",
+      "child_id": "c_8c81ebbc",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_14729",
+      "parent_id": "c_14729",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_11614",
+      "child_id": "c_11614",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_0f628632",
+      "child_id": "c_0f628632",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_1af96a53",
+      "child_id": "c_1af96a53",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_7f40dbdf",
+      "child_id": "c_7f40dbdf",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_d1c9cfce",
+      "child_id": "c_d1c9cfce",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_700f9441",
+      "child_id": "c_700f9441",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_6647",
+      "parent_id": "c_6647",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_1143",
+      "child_id": "c_1143",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_4040",
+      "child_id": "c_4040",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_1143",
+      "parent_id": "c_1143",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_12128",
+      "child_id": "c_12128",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_1143",
+      "parent_id": "c_1143",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_12934",
+      "child_id": "c_12934",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_1143",
+      "parent_id": "c_1143",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_14233",
+      "child_id": "c_14233",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_1143",
+      "parent_id": "c_1143",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_9813",
+      "child_id": "c_9813",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_1143",
+      "parent_id": "c_1143",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_11091",
+      "child_id": "c_11091",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_1143",
+      "parent_id": "c_1143",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_ffd65b9e",
+      "child_id": "c_ffd65b9e",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_1143",
+      "parent_id": "c_1143",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_2487",
+      "child_id": "c_2487",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_221f3324",
+      "child_id": "c_221f3324",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_2487",
+      "parent_id": "c_2487",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_7388",
+      "child_id": "c_7388",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_1412",
+      "child_id": "c_1412",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_7388",
+      "parent_id": "c_7388",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_4114",
+      "child_id": "c_4114",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_7388",
+      "parent_id": "c_7388",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_11089",
+      "child_id": "c_11089",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_7388",
+      "parent_id": "c_7388",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_5989",
+      "child_id": "c_5989",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_9623",
+      "child_id": "c_9623",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_11766",
+      "child_id": "c_11766",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_11171",
+      "child_id": "c_11171",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_11766",
+      "parent_id": "c_11766",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_1394",
+      "child_id": "c_1394",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_11766",
+      "parent_id": "c_11766",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_7339",
+      "child_id": "c_7339",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_11766",
+      "parent_id": "c_11766",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_15889",
+      "child_id": "c_15889",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_17156",
+      "child_id": "c_17156",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_28302",
+      "child_id": "c_28302",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_32502",
+      "child_id": "c_32502",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_330156",
+      "child_id": "c_330156",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_10789",
+      "child_id": "c_10789",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_87057e4f",
+      "child_id": "c_87057e4f",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    },
+    {
+      "child_uri": "http://aims.fao.org/aos/agrovoc/c_a8b0f9a7",
+      "child_id": "c_a8b0f9a7",
+      "parent_uri": "http://aims.fao.org/aos/agrovoc/c_8174",
+      "parent_id": "c_8174",
+      "rel": "skos:broader"
+    }
+  ]
+}

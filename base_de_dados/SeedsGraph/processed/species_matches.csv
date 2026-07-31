@@ -1,0 +1,22 @@
+binomial,crop_id,crop_label,score,matched_via,method
+abelmoschus esculentus,crop:c_12920,quiabo,100.0,quiabo,fuzzy-vernacular
+allium cepa,crop:c_12934,cebola,100.0,cebola,fuzzy-vernacular
+beta vulgaris,crop:c_867,beterraba,100.0,beterraba,fuzzy-vernacular
+brassica oleracea,crop:c_4070,couve,100.0,couve,fuzzy-vernacular
+capsicum annuum,crop:c_14727,pimentão doce,90.0,pimentao,fuzzy-vernacular
+capsicum chinense,crop:c_14727,pimentão doce,90.0,pimenta,fuzzy-vernacular
+capsicum frutescens,crop:c_14727,pimentão doce,90.0,pimenta,fuzzy-vernacular
+citrullus lanatus,,,69.2,melancia,unmatched
+coriandrum sativum,,,77.1,coentro,unmatched
+cucumis anguria,,,84.0,west indian gherkin,unmatched
+cucumis melo,,,72.0,melao,unmatched
+cucumis sativus,crop:c_10195,pepino,100.0,pepino,fuzzy-vernacular
+cucurbita maxima,crop:c_37735,abóbora,100.0,abobora,fuzzy-vernacular
+cucurbita moschata,crop:c_37735,abóbora,100.0,abobora,fuzzy-vernacular
+cucurbita pepo,crop:c_12414,marrows,100.0,marrows,fuzzy-vernacular
+daucus carota,crop:c_9640,cenoura,100.0,cenoura,fuzzy-vernacular
+lactuca sativa,crop:c_12151,alface,100.0,alface,fuzzy-vernacular
+phaseolus vulgaris,crop:c_4098,common beans,100.0,common beans,fuzzy-vernacular
+pisum sativum,crop:c_13177,ervilha,100.0,ervilha,fuzzy-vernacular
+raphanus sativus,crop:c_13735,rabanete,100.0,rabanete,fuzzy-vernacular
+solanum lycopersicum,crop:c_7805,tomate,100.0,tomate,fuzzy-vernacular
